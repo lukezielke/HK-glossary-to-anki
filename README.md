@@ -42,7 +42,6 @@ The script converts common LaTeX formatting to HTML:
 | LaTeX | HTML | Display |
 |-------|------|---------|
 | `\textbf{text}` | `<b>text</b>` | **text** |
-| `\emph{text}` | `<i>text</i>` | *text* |
 | `\textit{text}` | `<i>text</i>` | *text* |
 
 Math notation is preserved for MathJax rendering in Anki.
